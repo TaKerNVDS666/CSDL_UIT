@@ -1,2 +1,3 @@
 # CSDL_UIT
-Code của bài tập môn CSDL
+
+Query của bài tập môn CSDL
